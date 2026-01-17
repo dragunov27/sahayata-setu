@@ -4,7 +4,7 @@ Sahayata Setu is a small web application made using **Flask**, **HTML**, **CSS**
 It allows **patients** to request help and **volunteers** to register their skills.  
 The system gives a basic AI-style analysis based on keywords.
 
-This project is mainly for **learning and demo purposes**.
+This project is mainly for **learning and demo purposes** only.
 
 ---
 
