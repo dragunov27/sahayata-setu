@@ -42,7 +42,7 @@ sahayata-setu/
 ```
 
 ## 🧠 How It Works
-##👤 Patient Mode
+## 👤 Patient Mode
 
 User selects Patient
 
@@ -62,7 +62,7 @@ Urgency level
 
 Auto response message
 
-##🤝 Volunteer Mode
+## 🤝 Volunteer Mode
 
 User selects Volunteer
 
