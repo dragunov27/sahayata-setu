@@ -40,6 +40,16 @@ sahayata-setu/
 └── README.md
 
 ```
+## 🖼️ Screenshots
+
+### 1️⃣ Home Page
+![Home Page](images/image.png)
+
+### 2️⃣ Patient Triage Result
+![Patient Result](images/image2.png)
+
+### 3️⃣ Volunteer Skill Match
+![Volunteer Result](images/image3.png)
 
 ## 🧠 How It Works
 ## 👤 Patient Mode
