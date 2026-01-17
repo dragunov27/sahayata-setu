@@ -85,7 +85,7 @@ Skill badge
 Welcome message
 
 
-##📌 Future Improvements
+## 📌 Future Improvements
 
 Database support
 
