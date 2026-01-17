@@ -46,10 +46,10 @@ sahayata-setu/
 ![Home Page](images/image.png)
 
 ### 2️⃣ Patient Triage Result
-![Patient Result](images/image2.png)
+![Patient Result](images/image1.png)
 
 ### 3️⃣ Volunteer Skill Match
-![Volunteer Result](images/image3.png)
+![Volunteer Result](images/image2.png)
 
 ## 🧠 How It Works
 ## 👤 Patient Mode
