@@ -1,9 +1,6 @@
-# sahayata-setu
-🩺 Sahayata Setu – Healthcare Support Interface
-
 # 🩺 Sahayata Setu – Healthcare Support Interface
 
-Sahayata Setu is a small web application made using **Flask**, **HTML**, **Tailwind CSS**, and **JavaScript**.  
+Sahayata Setu is a small web application made using **Flask**, **HTML**, **CSS**, and **JavaScript**.  
 It allows **patients** to request help and **volunteers** to register their skills.  
 The system gives a basic AI-style analysis based on keywords.
 
