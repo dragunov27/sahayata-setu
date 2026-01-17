@@ -23,7 +23,7 @@ This project is mainly for **learning and demo purposes**.
 ## 🛠️ Tech Stack
 
 - **Backend:** Python (Flask)  
-- **Frontend:** HTML, Tailwind CSS  
+- **Frontend:** HTML, CSS  
 - **Logic:** JavaScript + Python  
 - **API:** JSON based POST request  
 
