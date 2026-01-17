@@ -1,73 +1,50 @@
 # sahayata-setu
 🩺 Sahayata Setu – Healthcare Support Interface
 
-Sahayata Setu is a small web application made using Flask, HTML, Tailwind CSS, and JavaScript.
-It allows patients to request help and volunteers to register their skills.
+# 🩺 Sahayata Setu – Healthcare Support Interface
+
+Sahayata Setu is a small web application made using **Flask**, **HTML**, **Tailwind CSS**, and **JavaScript**.  
+It allows **patients** to request help and **volunteers** to register their skills.  
 The system gives a basic AI-style analysis based on keywords.
 
-This project is mainly for learning and demo purposes.
+This project is mainly for **learning and demo purposes**.
 
-✨ Features
+---
 
-Patient can submit health related issues
+## ✨ Features
 
-Volunteer can register skills (doctor, driver, counselor, etc.)
+- Patient can submit health related issues  
+- Volunteer can register skills (doctor, driver, counselor, etc.)  
+- Simple keyword based analysis  
+- Shows urgency level for patients  
+- Assigns team and badge for volunteers  
+- Clean and minimal UI  
+- Beginner friendly Flask backend  
 
-Simple keyword based analysis
+---
 
-Shows urgency level for patients
+## 🛠️ Tech Stack
 
-Assigns team and badge for volunteers
+- **Backend:** Python (Flask)  
+- **Frontend:** HTML, Tailwind CSS  
+- **Logic:** JavaScript + Python  
+- **API:** JSON based POST request  
 
-Clean and minimal UI
+---
 
-Beginner friendly Flask backend
+## 📁 Project Structure
 
-🛠️ Tech Stack
-
-Backend: Python (Flask)
-
-Frontend: HTML, Tailwind CSS
-
-Logic: JavaScript + Python
-
-API: JSON based POST request
-
-📁 Project Structure
-project-folder/
+```text
+sahayata-setu/
 │
 ├── app.py
 ├── templates/
 │   └── index.html
-├── static/
-│   └── (optional)
 └── README.md
 
-🚀 How to Run the Project
-1️⃣ Install Python (if not installed)
+```
 
-Make sure Python 3 is installed.
-
-python --version
-
-2️⃣ Install Flask
-pip install flask
-
-3️⃣ Run the Flask App
-python app.py
-
-
-You should see something like:
-
-Running on http://127.0.0.1:5000/
-
-4️⃣ Open in Browser
-
-Open your browser and go to:
-
-http://127.0.0.1:5000/
-
-🧠 How It Works (Simple Explanation)
+## 🧠 How It Works
 👤 Patient Mode
 
 User selects Patient
@@ -82,7 +59,7 @@ fever, appointment → Medium urgency
 
 Displays:
 
-Category (Medical, Mental Health, Logistics)
+Category
 
 Urgency level
 
@@ -110,17 +87,8 @@ Skill badge
 
 Welcome message
 
-⚠️ Disclaimer
 
-This is not a real medical system
-
-No real AI or ML is used
-
-Only keyword matching
-
-Do not use for real emergencies
-
-📌 Future Improvements (Optional)
+##📌 Future Improvements
 
 Database support
 
@@ -131,3 +99,4 @@ Real AI / ML model
 Admin dashboard
 
 SMS / Email notifications
+
